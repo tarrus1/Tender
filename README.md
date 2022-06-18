@@ -1,0 +1,2 @@
+# Tender
+The goal of this project is to create a smart contract which can be run on the Cardano blockchain that could be used by any public, private or personal organization or individual to run fair tenders which are secure, tamper proof, efficient and that guarantees fairness. By “guarantees fairness” it is meant that anyone, including the person or organization running the tender, can’t see the details of the bids sent by other organizations or individuals up until the bidding phase is finalized.
